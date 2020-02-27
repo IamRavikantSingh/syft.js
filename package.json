@@ -59,6 +59,7 @@
     }
   },
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "long": "^4.0.0",
     "syft-proto": "git+https://github.com/OpenMined/syft-proto.git"
   },
